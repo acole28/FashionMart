@@ -6,3 +6,4 @@ Tags:
 image: https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/akatsukijacket.jpeg?raw=true
 ---
 ![](https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/akatsukijacket.jpeg?raw=true)
+$$
