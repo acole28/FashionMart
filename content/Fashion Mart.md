@@ -1,7 +1,3 @@
----
-cover: "[[Fashion Mart.jpeg]]"
-image: "[[Fashion Mart.jpeg]]"
----
 
 <!-- Column 1 -->
 > [!note]+ $\huge{Shoes}$  
