@@ -5,4 +5,4 @@ Tags:
   - jacket
 image: "[[akatsukijacket.jpeg]]"
 ---
-![[akatsukijacket.jpeg]]
+![](akatsukijacket.jpeg)

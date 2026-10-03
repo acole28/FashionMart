@@ -5,4 +5,4 @@ Tags:
   - coat
 image: "[[basicraincoat.jpeg]]"
 ---
-![[basicraincoat.jpeg]]
+![](basicraincoat.jpeg)
