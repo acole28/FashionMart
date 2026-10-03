@@ -1,4 +1,4 @@
-import * as ExternalPlugin from "./.quartz/plugins"
+import * as ExternalPlugin from "./quartz/plugins"
 
 // Must be placed before loadQuartzConfig()
 ExternalPlugin.BasesPage({
