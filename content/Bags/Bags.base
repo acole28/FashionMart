@@ -1,0 +1,19 @@
+filters:
+  and:
+    - note["base"] == link("Bags.base")
+properties:
+  file.name:
+    displayName: Name
+  Price:
+    displayName: Price
+  Tags:
+    displayName: Tags
+views:
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - Price
+    imageFit: contain
+    cardSize: 310
+    image: note.image
