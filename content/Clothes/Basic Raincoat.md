@@ -3,6 +3,6 @@ base: "[[Clothes.base]]"
 Price: 12
 Tags:
   - coat
-image: "[[basicraincoat.jpeg]]"
+image: assets/Clothes/basicraincoat.jpeg
 ---
 ![](basicraincoat.jpeg)
