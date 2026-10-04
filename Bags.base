@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.hasLink("content/Bags/Bags.base")
+    - file.hasLink("assets/Bag Cards/Bags.base")
 views:
   - type: cards
     name: Table

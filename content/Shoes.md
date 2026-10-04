@@ -1,6 +1,0 @@
----
-title: Shoes
----
-
-![[Shoes.base]]
-
