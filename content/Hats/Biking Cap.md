@@ -5,4 +5,5 @@ Tags:
   - cap
 image: "[[bikingcap.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[bikingcap.jpeg]]

@@ -5,4 +5,5 @@ Price: 35
 Tags:
   - pants
 ---
+Price: `VIEW[{Price}]`
 ![[womensjeans.jpeg]]

@@ -5,4 +5,5 @@ Tags:
   - sandals
 image: "[[everydaysandals.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[everydaysandals.jpeg]]

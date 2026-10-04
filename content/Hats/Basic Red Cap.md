@@ -5,4 +5,5 @@ Tags:
   - cap
 image: "[[basicredcap.png]]"
 ---
+Price: `VIEW[{Price}]`
 ![[basicredcap.png]]

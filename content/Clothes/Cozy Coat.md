@@ -5,4 +5,5 @@ Tags:
   - coat
 image: "[[cozycoat.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[cozycoat.jpeg]]

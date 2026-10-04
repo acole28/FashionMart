@@ -5,4 +5,5 @@ Tags:
   - skirt
 image: "[[redflareskirt.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[redflareskirt.jpeg]]

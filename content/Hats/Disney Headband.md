@@ -5,4 +5,5 @@ Tags:
   - other
 image: "[[disneyheadband.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[disneyheadband.jpeg]]

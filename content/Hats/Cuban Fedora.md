@@ -5,4 +5,5 @@ Tags:
   - small-brim
 image: "[[cubanfedora.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[cubanfedora.jpeg]]

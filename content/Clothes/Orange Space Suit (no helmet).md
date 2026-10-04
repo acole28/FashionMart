@@ -5,4 +5,5 @@ Tags:
   - shirt
 image: "[[orangespacesuit.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[orangespacesuit.jpeg]]

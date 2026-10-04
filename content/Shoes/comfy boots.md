@@ -5,4 +5,5 @@ Tags:
   - boots
 image: "[[comfyboots.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[comfyboots.jpeg]]

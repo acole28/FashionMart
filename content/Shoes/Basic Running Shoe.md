@@ -5,4 +5,5 @@ Tags:
   - Athletic
 image: "[[basicrunningshoe.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[basicrunningshoe.jpeg]]

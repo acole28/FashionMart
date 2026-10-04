@@ -5,4 +5,5 @@ Tags:
   - pants
 image: "[[checkeredpants.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[checkeredpants.jpeg]]

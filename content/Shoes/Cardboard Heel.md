@@ -5,4 +5,5 @@ Tags:
   - heels
 image: "[[cardboardheel.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[cardboardheel.jpeg]]

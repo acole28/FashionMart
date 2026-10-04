@@ -5,4 +5,5 @@ Tags:
   - small-brim
 image: "[[cutecardboardhat.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[cutecardboardhat.jpeg]]

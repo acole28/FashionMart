@@ -5,4 +5,5 @@ Tags:
   - large-brim
 image: "[[vintagecowboyhat.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[vintagecowboyhat.jpeg]]

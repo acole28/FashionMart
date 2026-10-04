@@ -5,4 +5,5 @@ Tags:
   - jacket
 image: "[[casualbomberjacket.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[casualbomberjacket.jpeg]]

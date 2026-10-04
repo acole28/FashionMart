@@ -5,4 +5,5 @@ Tags:
   - cap
 image: "[[darkcap.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[darkcap.jpeg]]

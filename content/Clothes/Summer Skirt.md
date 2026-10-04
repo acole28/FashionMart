@@ -5,4 +5,5 @@ Tags:
   - skirt
 image: "[[summerskirt.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[summerskirt.jpeg]]

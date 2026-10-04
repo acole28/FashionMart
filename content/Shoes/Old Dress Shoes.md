@@ -5,4 +5,5 @@ Tags:
   - professional
 image: "[[olddressshoes.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[olddressshoes.jpeg]]

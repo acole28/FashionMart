@@ -5,4 +5,5 @@ Tags:
   - Travel-Bag
 image: "[[basicsuitcase.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[basicsuitcase.jpeg]]

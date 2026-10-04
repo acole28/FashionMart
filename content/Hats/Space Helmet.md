@@ -5,4 +5,5 @@ Tags:
   - other
 image: "[[spacehelmet.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[spacehelmet.jpeg]]

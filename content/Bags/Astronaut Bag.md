@@ -5,4 +5,5 @@ Tags:
   - handbag
 image: "[[astronautbag.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[astronautbag.jpeg]]

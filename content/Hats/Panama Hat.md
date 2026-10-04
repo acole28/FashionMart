@@ -5,4 +5,5 @@ Tags:
   - large-brim
 image: "[[panamahat.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[panamahat.jpeg]]

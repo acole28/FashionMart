@@ -5,4 +5,5 @@ Tags:
   - small-brim
 image: "[[summerbeachhat.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[summerbeachhat.jpeg]]

@@ -5,4 +5,5 @@ Tags:
   - heels
 image: "[[carboardpumps.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[carboardpumps.jpeg]]

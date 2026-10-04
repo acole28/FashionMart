@@ -5,4 +5,5 @@ Tags:
   - other
 image: "[[bluetrapper.png]]"
 ---
+Price: `VIEW[{Price}]`
 ![[bluetrapper.png]]

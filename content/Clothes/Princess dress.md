@@ -5,4 +5,5 @@ Tags:
   - dress
 image: "[[princessdress.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[princessdress.jpeg]]

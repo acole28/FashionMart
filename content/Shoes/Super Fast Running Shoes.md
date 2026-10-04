@@ -6,4 +6,5 @@ Tags:
   - Athletic
 image: "[[superfastrunningshoes.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[superfastrunningshoes.jpeg]]

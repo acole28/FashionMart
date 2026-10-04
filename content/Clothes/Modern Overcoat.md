@@ -5,4 +5,5 @@ Tags:
   - coat
 image: "[[modernovercoat.jpeg]]"
 ---
+Price: `VIEW[{Price}]`
 ![[modernovercoat.jpeg]]
