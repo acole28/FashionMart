@@ -3,7 +3,7 @@ base: "[[Clothes.base]]"
 Price: 10
 Tags:
   - shirt
-image: "[[basicyukata.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Clothes/basicyukata.jpeg?raw=true
 ---
 Price: $10
 

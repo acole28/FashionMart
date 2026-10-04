@@ -3,7 +3,7 @@ base: "[[Clothes.base]]"
 Price: 80
 Tags:
   - pants
-image: "[[duckypajamas.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Clothes/duckypajamas.jpeg?raw=true
 ---
 Price: $80
 

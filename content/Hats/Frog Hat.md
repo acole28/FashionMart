@@ -3,8 +3,8 @@ base: "[[Hats.base]]"
 Price: 33
 Tags:
   - small-brim
-image: "[[froghat.png]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Hats/froghat.png?raw=true
 ---
 Price: `VIEW[{Price}]`
-![[froghat.png]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Hats/froghat.png?raw=true)

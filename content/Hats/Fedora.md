@@ -3,8 +3,8 @@ base: "[[Hats.base]]"
 Price: 53
 Tags:
   - small-brim
-image: "[[fedora.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Hats/fedora.jpeg?raw=true
 ---
 Price: `VIEW[{Price}]`
-![[fedora.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Hats/fedora.jpeg?raw=true)

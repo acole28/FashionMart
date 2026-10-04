@@ -7,5 +7,4 @@ Tags:
 ---
 Price: `VIEW[{Price}]`
 
-`VIEW[{property}][image]`
-![]()
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Hats/blackberet.jpeg?raw=true)
