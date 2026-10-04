@@ -1,6 +1,6 @@
 filters:
   and:
-    - base == link("content/Bags/Bags.base")
+    - base == link("content/Bag Cards/Bags.base")
 properties:
   file.name:
     displayName: Name
