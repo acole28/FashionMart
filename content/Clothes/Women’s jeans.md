@@ -7,3 +7,4 @@ Tags:
 ---
 Price: `VIEW[{Price}]`
 ![[womensjeans.jpeg]]
+![]()

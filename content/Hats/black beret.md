@@ -8,3 +8,4 @@ Tags:
 Price: `VIEW[{Price}]`
 
 `VIEW[{property}][image]`
+![]()

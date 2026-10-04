@@ -1,9 +1,10 @@
 ---
-image: "[[adventuringpack.png]]"
+image: https://github.com/acole28/FashionMart/blob/v5/assets/Bags/adventuringpack.png?raw=true
 base: "[[Bags.base]]"
 Price: 40
 Tags:
   - backpack
 ---
 Price: `VIEW[{Price}]`
-![[adventuringpack.png]]
+![](https://github.com/acole28/FashionMart/blob/v5/assets/Bags/adventuringpack.png?raw=true)
+![]()

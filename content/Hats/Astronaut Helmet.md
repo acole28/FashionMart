@@ -7,3 +7,4 @@ image: "[[astronauthelmet.jpeg]]"
 ---
 Price: `VIEW[{Price}]`
 ![[astronauthelmet.jpeg]]
+![]()

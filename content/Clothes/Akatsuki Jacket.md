@@ -6,7 +6,7 @@ Tags:
 image: https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/akatsukijacket.jpeg?raw=true
 price:
 ---
-Price: `VIEW[{Price}]`
+Price: $44
+
 ![](https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/akatsukijacket.jpeg?raw=true)
-
-
+![]()
