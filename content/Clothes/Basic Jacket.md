@@ -3,6 +3,6 @@ base: "[[Clothes.base]]"
 Price: 15
 Tags:
   - jacket
-image: "[[basicjacket.jpeg]]"
+image: https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/basicjacket.jpeg?raw=true
 ---
-![[basicjacket.jpeg]]
+![](https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/basicjacket.jpeg?raw=true)
