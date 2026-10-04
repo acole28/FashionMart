@@ -1,6 +1,6 @@
 filters:
   and:
-    - note["base"] == link("Clothes.base")
+    - base == link("Clothes.base")
 properties:
   file.name:
     displayName: Name

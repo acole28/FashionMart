@@ -1,5 +1,5 @@
 ---
-base: "[[Bags.base]]"
+base: "[[content/Bags.base]]"
 Price: 89
 Tags:
   - backpack

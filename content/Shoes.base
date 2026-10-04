@@ -1,6 +1,6 @@
 filters:
   and:
-    - note["base"] == link("Shoes.base")
+    - base == link("Shoes.base")
 properties:
   file.name:
     displayName: Name
@@ -14,6 +14,5 @@ views:
     order:
       - file.name
       - Price
-      - Tags
     image: note.image
     imageFit: contain

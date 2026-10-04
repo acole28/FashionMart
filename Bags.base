@@ -1,0 +1,8 @@
+filters:
+  and:
+    - file.hasLink("content/Bags.base.base")
+views:
+  - type: cards
+    name: Table
+    image: note.image
+    imageFit: contain

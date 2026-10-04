@@ -60,7 +60,7 @@ title: Fashion Mart
 
 > [!note]+ $\huge{Bags}$
 > <!-- Column 1 -->
-> [[Bags.base|All Bags]]
+> [[content/Bags.base|All Bags]]
 > 
 > [Travel Bags](/fa11898f183c4cf695b73eaf18a61c97)
 > 

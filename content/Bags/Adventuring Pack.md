@@ -1,6 +1,6 @@
 ---
 image: https://github.com/acole28/FashionMart/blob/v5/assets/Bags/adventuringpack.png?raw=true
-base: "[[Bags.base]]"
+base: "[[content/Bags.base]]"
 Price: 40
 Tags:
   - backpack
