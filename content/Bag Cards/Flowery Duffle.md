@@ -3,8 +3,8 @@ base: "[[content/Bag Cards/Bags.base]]"
 Price: 135
 Tags:
   - Travel-Bag
-image: "[[floweryhandbag.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Bags/floweryhandbag.jpeg?raw=true
 ---
 Price: $135
-![[floweryhandbag.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Bags/floweryhandbag.jpeg?raw=true)

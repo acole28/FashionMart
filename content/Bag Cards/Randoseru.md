@@ -3,8 +3,8 @@ base: "[[content/Bag Cards/Bags.base]]"
 Price: 300
 Tags:
   - backpack
-image: "[[randoseru.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Bags/randoseru.jpeg?raw=true
 ---
 Price: $300
-![[randoseru.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Bags/randoseru.jpeg?raw=true)

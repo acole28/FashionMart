@@ -3,8 +3,8 @@ base: "[[content/Bag Cards/Bags.base]]"
 Price: 20
 Tags:
   - handbag
-image: "[[simplehandbag.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Bags/simplehandbag.jpeg?raw=true
 ---
 Price: $20
-![[simplehandbag.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Bags/simplehandbag.jpeg?raw=true)

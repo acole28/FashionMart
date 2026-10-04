@@ -3,8 +3,8 @@ base: "[[content/Bag Cards/Bags.base]]"
 Price: 100
 Tags:
   - Travel-Bag
-image: "[[orangeduffle.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Bags/orangeduffle.jpeg?raw=true
 ---
 Price: $100
-![[orangeduffle.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Bags/orangeduffle.jpeg?raw=true)

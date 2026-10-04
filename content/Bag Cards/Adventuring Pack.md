@@ -6,5 +6,5 @@ Tags:
   - backpack
 ---
 Price: $40
-![](https://github.com/acole28/FashionMart/blob/v5/assets/Bags/adventuringpack.png?raw=true)
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Bags/adventuringpack.png?raw=true)

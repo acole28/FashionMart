@@ -3,8 +3,8 @@ base: "[[content/Bag Cards/Bags.base]]"
 Price: 225
 Tags:
   - handbag
-image: "[[fancyhandbag.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Bags/fancyhandbag.jpeg?raw=true
 ---
 Price: $225
-![[fancyhandbag.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Bags/fancyhandbag.jpeg?raw=true)

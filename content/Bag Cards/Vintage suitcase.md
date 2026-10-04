@@ -3,8 +3,8 @@ base: "[[content/Bag Cards/Bags.base]]"
 Price: 13
 Tags:
   - Travel-Bag
-image: "[[vintagecase.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Bags/vintagecase.jpeg?raw=true
 ---
 Price: $13
-![[vintagecase.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Bags/vintagecase.jpeg?raw=true)

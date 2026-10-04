@@ -3,8 +3,8 @@ base: "[[content/Bag Cards/Bags.base]]"
 Price: 25
 Tags:
   - handbag
-image: "[[astronautbag.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Bags/astronautbag.jpeg?raw=true
 ---
 Price: $25
-![[astronautbag.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Bags/astronautbag.jpeg?raw=true)

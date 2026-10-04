@@ -3,8 +3,8 @@ base: "[[content/Bag Cards/Bags.base]]"
 Price: 777
 Tags:
   - backpack
-image: "[[realnasapack.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Bags/realnasapack.jpeg?raw=true
 ---
 Price: $777
-![[realnasapack.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Bags/realnasapack.jpeg?raw=true)
