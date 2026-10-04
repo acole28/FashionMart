@@ -7,6 +7,6 @@ image: https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/akatsukijac
 price:
 ---
 Price: `VIEW[{Price}]`
-Price: `VIEW[{Price}]`![](https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/akatsukijacket.jpeg?raw=true)
+![](https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/akatsukijacket.jpeg?raw=true)
 
 
