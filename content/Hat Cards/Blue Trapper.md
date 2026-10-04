@@ -5,6 +5,6 @@ Tags:
   - other
 image: https://github.com/acole28/fashionmart/blob/v5/assets/Hats/bluetrapper.png?raw=true
 ---
-Price: `VIEW[{Price}]`
+Price: $6
 
 ![](https://github.com/acole28/fashionmart/blob/v5/assets/Hats/bluetrapper.png?raw=true)

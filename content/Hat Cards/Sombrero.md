@@ -5,6 +5,6 @@ Tags:
   - large-brim
 image: https://github.com/acole28/fashionmart/blob/v5/assets/Hats/sombrero.jpeg?raw=true
 ---
-Price: `VIEW[{Price}]`
+Price: $55
 
 ![](https://github.com/acole28/fashionmart/blob/v5/assets/Hats/sombrero.jpeg?raw=true)

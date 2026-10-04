@@ -5,6 +5,6 @@ Tags:
   - professional
 image: ""
 ---
-Price: `VIEW[{Price}]`
+Price: $320
 ![](https://i.ebayimg.com/images/g/ehEAAOSwWXtjoOh9/s-l1600.jpg)
 ![]()

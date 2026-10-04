@@ -5,6 +5,6 @@ Tags:
   - casual
 image: "[[pinkallstars.png]]"
 ---
-Price: `VIEW[{Price}]`
+Price: $36
 ![[pinkallstars.png]]
 ![]()

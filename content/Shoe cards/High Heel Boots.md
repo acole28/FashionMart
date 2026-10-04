@@ -6,6 +6,6 @@ Tags:
   - heels
 image: "[[highheelboots.jpeg]]"
 ---
-Price: `VIEW[{Price}]`
+Price: $134
 ![[highheelboots.jpeg]]
 ![]()

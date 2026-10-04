@@ -5,6 +5,6 @@ Price: 5
 Tags:
   - other
 ---
-Price: `VIEW[{Price}]`
+Price: $5
 
 ![](https://github.com/acole28/fashionmart/blob/v5/assets/Hats/blackberet.jpeg?raw=true)

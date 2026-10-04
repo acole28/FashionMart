@@ -5,6 +5,6 @@ Tags:
   - Athletic
 image: "[[basicrunningshoe.jpeg]]"
 ---
-Price: `VIEW[{Price}]`
+Price: $43
 ![[basicrunningshoe.jpeg]]
 ![]()

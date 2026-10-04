@@ -5,6 +5,6 @@ Tags:
   - boots
 image: "[[astroboots.jpeg]]"
 ---
-Price: `VIEW[{Price}]`
+Price: $1250
 ![[astroboots.jpeg]]
 ![]()

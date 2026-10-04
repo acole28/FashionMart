@@ -5,6 +5,6 @@ Tags:
   - small-brim
 image: https://github.com/acole28/fashionmart/blob/v5/assets/Hats/froghat.png?raw=true
 ---
-Price: `VIEW[{Price}]`
+Price: $33
 
 ![](https://github.com/acole28/fashionmart/blob/v5/assets/Hats/froghat.png?raw=true)

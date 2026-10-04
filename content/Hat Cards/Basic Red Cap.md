@@ -5,6 +5,6 @@ Tags:
   - cap
 image: https://github.com/acole28/fashionmart/blob/v5/assets/Hats/basicredcap.png?raw=true
 ---
-Price: `VIEW[{Price}]`
+Price: $36
 
 ![](https://github.com/acole28/fashionmart/blob/v5/assets/Hats/basicredcap.png?raw=true)

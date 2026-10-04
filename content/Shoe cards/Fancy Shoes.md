@@ -5,6 +5,6 @@ Tags:
   - professional
 image: ""
 ---
-Price: `VIEW[{Price}]`
+Price: $900 
 ![](https://media.karousell.com/media/photos/products/2019/08/23/fancy_dress_mens_shoes_1566527943_fad1aa69.jpg)
 ![]()

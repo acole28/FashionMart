@@ -5,6 +5,6 @@ Tags:
   - sandals
 image: "[[causalsandals.jpeg]]"
 ---
-Price: `VIEW[{Price}]`
+Price: $65
 ![[causalsandals.jpeg]]
 ![]()

@@ -5,6 +5,6 @@ Tags:
   - professional
 image: ""
 ---
-Price: `VIEW[{Price}]`
+Price: $10
 ![](https://img.freepik.com/premium-photo/close-detailing-dull-wornout-shoes-lying-new-pair_419341-128116.jpg)
 ![]()

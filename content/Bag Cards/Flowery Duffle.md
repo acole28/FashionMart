@@ -5,6 +5,6 @@ Tags:
   - Travel-Bag
 image: "[[floweryhandbag.jpeg]]"
 ---
-Price: `VIEW[{Price}]`
+Price: $135
 ![[floweryhandbag.jpeg]]
 ![]()

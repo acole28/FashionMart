@@ -5,6 +5,6 @@ Tags:
   - backpack
 image: "[[nasapack.jpeg]]"
 ---
-Price: `VIEW[{Price}]`
+Price: $45
 ![[nasapack.jpeg]]
 ![]()

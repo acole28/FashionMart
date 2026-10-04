@@ -5,6 +5,6 @@ Tags:
   - large-brim
 image: https://github.com/acole28/fashionmart/blob/v5/assets/Hats/newcowboyhat.jpeg?raw=true
 ---
-Price: `VIEW[{Price}]`
+Price: $300
 
 ![](https://github.com/acole28/fashionmart/blob/v5/assets/Hats/newcowboyhat.jpeg?raw=true)

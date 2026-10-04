@@ -4,6 +4,6 @@ Price: 79
 Tags: []
 image: https://github.com/acole28/fashionmart/blob/v5/assets/Hats/redberet.jpeg?raw=true
 ---
-Price: `VIEW[{Price}]`
+Price: $79
 
 ![](https://github.com/acole28/fashionmart/blob/v5/assets/Hats/redberet.jpeg?raw=true)

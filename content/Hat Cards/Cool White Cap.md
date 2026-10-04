@@ -5,6 +5,6 @@ Tags:
   - cap
 image: https://github.com/acole28/fashionmart/blob/v5/assets/Hats/coolwhitecap.jpeg?raw=true
 ---
-Price: `VIEW[{Price}]`
+Price:  $27
 
 ![](https://github.com/acole28/fashionmart/blob/v5/assets/Hats/coolwhitecap.jpeg?raw=true)

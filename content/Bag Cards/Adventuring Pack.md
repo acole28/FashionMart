@@ -5,6 +5,6 @@ Price: 40
 Tags:
   - backpack
 ---
-Price: `VIEW[{Price}]`
+Price: $40
 ![](https://github.com/acole28/FashionMart/blob/v5/assets/Bags/adventuringpack.png?raw=true)
 ![]()

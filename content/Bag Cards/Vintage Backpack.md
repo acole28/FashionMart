@@ -5,6 +5,6 @@ Tags:
   - backpack
 image: "[[vintagebackpack.jpeg]]"
 ---
-Price: `VIEW[{Price}]`
+Price: $30
 ![[vintagebackpack.jpeg]]
 ![]()

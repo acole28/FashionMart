@@ -5,6 +5,6 @@ Tags:
   - professional
 image: "[[basicflats.jpeg]]"
 ---
-Price: `VIEW[{Price}]`
+Price: $10
 ![[basicflats.jpeg]]
 ![]()

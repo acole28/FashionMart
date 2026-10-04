@@ -5,6 +5,6 @@ Tags:
   - large-brim
 image: https://github.com/acole28/fashionmart/blob/v5/assets/Hats/panamahat.jpeg?raw=true
 ---
-Price: `VIEW[{Price}]`
+Price: $400
 
 ![](https://github.com/acole28/fashionmart/blob/v5/assets/Hats/panamahat.jpeg?raw=true)

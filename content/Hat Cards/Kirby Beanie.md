@@ -5,6 +5,6 @@ Tags:
   - other
 image: https://github.com/acole28/fashionmart/blob/v5/assets/Hats/kirbyhat.jpeg?raw=true
 ---
-Price: `VIEW[{Price}]`
+Price: $48
 
 ![](https://github.com/acole28/fashionmart/blob/v5/assets/Hats/kirbyhat.jpeg?raw=true)
