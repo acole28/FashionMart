@@ -1,0 +1,5 @@
+---
+title: Clothes
+---
+
+![[Clothes.base]]

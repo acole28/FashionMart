@@ -1,0 +1,4 @@
+---
+title: Bags
+---
+![[Bags.base]]

@@ -1,5 +1,5 @@
 ---
-base: "[[content/Bags.base]]"
+base: "[[content/Bags/Bags.base]]"
 Price: 84
 Tags:
   - Travel-Bag

@@ -1,0 +1,4 @@
+---
+title: hats
+---
+![[Hats.base]]

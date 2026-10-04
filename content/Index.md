@@ -25,7 +25,7 @@ title: Fashion Mart
 
 > $\huge{Bags}$
 > <!-- Column 1 -->
-> [[content/Bags.base|All Bags]]
+> [[content/Bags/Bags.base|All Bags]]
 > <!-- Column 2 -->
 > ![](https://images.unsplash.com/photo-1601987078664-863b07dc0907?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
 
