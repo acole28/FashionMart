@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 79
 Tags:
   - sandals
-image: ""
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/fancyleathersandals.jpeg?raw=true
 ---
 Price: $79
-![](https://5.imimg.com/data5/WN/TB/FV/SELLER-49620552/men-fancy-leather-sandals.jpg)
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/fancyleathersandals.jpeg?raw=true)

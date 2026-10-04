@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 10
 Tags:
   - professional
-image: ""
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/wornoutshoes.jpeg?raw=true
 ---
 Price: $10
-![](https://img.freepik.com/premium-photo/close-detailing-dull-wornout-shoes-lying-new-pair_419341-128116.jpg)
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/wornoutshoes.jpeg?raw=true)

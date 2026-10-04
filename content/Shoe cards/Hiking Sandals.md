@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 80
 Tags:
   - sandals
-image: ""
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/hikingsandals.jpeg?raw=true
 ---
 Price: $80
-![](https://www.tracerindia.com/cdn/shop/products/03_64c4d6a6-fe82-49f0-b952-07452b58d97c.jpg?v=1688464798&width=1946)
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/hikingsandals.jpeg?raw=true)

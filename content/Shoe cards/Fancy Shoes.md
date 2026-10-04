@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 900
 Tags:
   - professional
-image: ""
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/fancyshoes.jpeg?raw=true
 ---
 Price: $900 
-![](https://media.karousell.com/media/photos/products/2019/08/23/fancy_dress_mens_shoes_1566527943_fad1aa69.jpg)
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/fancyshoes.jpeg?raw=true)

@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 200
 Tags:
   - heels
-image: ""
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/diamondheels.jpeg?raw=true
 ---
 Price: $200
-![](https://images.unsplash.com/photo-1581101767113-1677fc2beaa8?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb)
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/diamondheels.jpeg?raw=true)

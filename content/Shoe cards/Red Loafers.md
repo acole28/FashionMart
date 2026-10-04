@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 320
 Tags:
   - professional
-image: ""
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/redloafers.jpeg?raw=true
 ---
 Price: $320
-![](https://i.ebayimg.com/images/g/ehEAAOSwWXtjoOh9/s-l1600.jpg)
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/redloafers.jpeg?raw=true)

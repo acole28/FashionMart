@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 189
 Tags:
   - boots
-image: ""
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/strappyboots.png?raw=true
 ---
 Price: $189
-![](https://www.thefryecompany.com/cdn/shop/files/Untitled_650_x_650_px_650x.png?v=1680554830)
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/strappyboots.png?raw=true)

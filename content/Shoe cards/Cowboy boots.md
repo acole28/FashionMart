@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 1350
 Tags:
   - boots
-image: ""
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/cowboyboots.jpeg?raw=true
 ---
 Price: $1350
-![](https://www.vaqueroboots.com/cdn/shop/products/Q322R2705.jpg?v=1678830181&width=2048)
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/cowboyboots.jpeg?raw=true)
