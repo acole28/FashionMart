@@ -3,8 +3,8 @@ base: "[[Clothes.base]]"
 Price: 222
 Tags:
   - pants
-image: "[[pinksnowpants.jpeg]]"
+image: https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/pinksnowpants.jpeg?raw=true
 ---
-Price: `VIEW[{Price}]`
-![[pinksnowpants.jpeg]]
-![]()
+Price: $222
+
+![](https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/pinksnowpants.jpeg?raw=true)

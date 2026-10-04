@@ -5,6 +5,6 @@ Tags:
   - pants
 image: "[[duckypajamas.jpeg]]"
 ---
-Price: `VIEW[{Price}]`
-![[duckypajamas.jpeg]]
-![]()
+Price: $80
+
+![](https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/duckypajamas.jpeg?raw=true)

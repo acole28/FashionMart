@@ -3,8 +3,8 @@ base: "[[Clothes.base]]"
 Price: 22
 Tags:
   - shirt
-image: "[[womensdenimshirt.jpeg]]"
+image: https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/womensdenimshirt.jpeg?raw=true
 ---
-Price: `VIEW[{Price}]`
-![[womensdenimshirt.jpeg]]
-![]()
+Price: $22
+
+![](https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/womensdenimshirt.jpeg?raw=true)

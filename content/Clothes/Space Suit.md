@@ -3,8 +3,8 @@ base: "[[Clothes.base]]"
 Price: 1400
 Tags:
   - shirt
-image: "[[spacesuit.jpeg]]"
+image: https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/spacesuit.jpeg?raw=true
 ---
-Price: `VIEW[{Price}]`
-![[spacesuit.jpeg]]
-![]()
+Price: $1400
+
+![](https://github.com/acole28/FashionMart/blob/v5/assets/Clothes/spacesuit.jpeg?raw=true)
