@@ -3,6 +3,6 @@ base: "[[Hats.base]]"
 Price: 4
 Tags:
   - cap
-image: ""
+image: "[[cheapnikecap.jpeg]]"
 ---
-![](https://i.ytimg.com/vi/8fDwE4AOEhU/maxresdefault.jpg)
+![[cheapnikecap.jpeg]]

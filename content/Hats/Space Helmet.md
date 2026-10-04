@@ -3,6 +3,6 @@ base: "[[Hats.base]]"
 Price: 600
 Tags:
   - other
-image: ""
+image: "[[spacehelmet.jpeg]]"
 ---
-![](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2017/10/space_helmet/17206219-1-eng-GB/Space_helmet_pillars.jpg)
+![[spacehelmet.jpeg]]

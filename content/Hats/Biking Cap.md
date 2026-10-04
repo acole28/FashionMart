@@ -3,6 +3,6 @@ base: "[[Hats.base]]"
 Price: 30
 Tags:
   - cap
-image: ""
+image: "[[bikingcap.jpeg]]"
 ---
-![](https://bellocyclist.com/wp-content/uploads/2020/10/Charlie_PD.jpg)
+![[bikingcap.jpeg]]

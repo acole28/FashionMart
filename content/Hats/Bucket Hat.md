@@ -3,6 +3,6 @@ base: "[[Hats.base]]"
 Price: 20
 Tags:
   - small-brim
-image: ""
+image: "[[buckethat.jpeg]]"
 ---
-![](https://xtm.com.au/cdn/shop/files/HU120_SLB_00.jpg?v=1774923303)
+![[buckethat.jpeg]]
