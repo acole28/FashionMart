@@ -4,8 +4,8 @@ Price: 134
 Tags:
   - boots
   - heels
-image: "[[highheelboots.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/highheelboots.jpeg?raw=true
 ---
 Price: $134
-![[highheelboots.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/highheelboots.jpeg?raw=true)

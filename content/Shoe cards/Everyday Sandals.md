@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 35
 Tags:
   - sandals
-image: "[[everydaysandals.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/everydaysandals.jpeg?raw=true
 ---
 Price: $35
-![[everydaysandals.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/everydaysandals.jpeg?raw=true)

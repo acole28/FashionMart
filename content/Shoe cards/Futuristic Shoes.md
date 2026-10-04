@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 999
 Tags:
   - Athletic
-image: "[[futureshoes.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/futureshoes.jpeg?raw=true
 ---
 Price: $999
-![[futureshoes.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/futureshoes.jpeg?raw=true)

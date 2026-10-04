@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 22
 Tags:
   - Athletic
-image: "[[plainshoes.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/plainshoes.jpeg?raw=true
 ---
 Price: $22
-![[plainshoes.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/plainshoes.jpeg?raw=true)

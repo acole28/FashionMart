@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 2
 Tags:
   - heels
-image: "[[cardboardheel.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/cardboardheel.jpeg?raw=true
 ---
 Price: $2
-![[cardboardheel.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/cardboardheel.jpeg?raw=true)

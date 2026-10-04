@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 25
 Tags:
   - sandals
-image: "[[tallgeta.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/tallgeta.jpeg?raw=true
 ---
 Price: $25
-![[tallgeta.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/tallgeta.jpeg?raw=true)

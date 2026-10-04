@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 60
 Tags:
   - heels
-image: "[[stilletoboots.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/stilletoboots.jpeg?raw=true
 ---
 Price: $60
-![[stilletoboots.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/stilletoboots.jpeg?raw=true)

@@ -3,8 +3,8 @@ base: "[[Shoes.base]]"
 Price: 800
 Tags:
   - boots
-image: "[[furryboots.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/furryboots.jpeg?raw=true
 ---
 Price: $800
-![[furryboots.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/furryboots.jpeg?raw=true)

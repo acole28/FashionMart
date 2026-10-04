@@ -4,8 +4,8 @@ Price: 160
 Tags:
   - running
   - Athletic
-image: "[[superfastrunningshoes.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/superfastrunningshoes.jpeg?raw=true
 ---
 Price: $160
-![[superfastrunningshoes.jpeg]]
-![]()
+
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/superfastrunningshoes.jpeg?raw=true)

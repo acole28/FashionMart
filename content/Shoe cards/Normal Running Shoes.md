@@ -4,9 +4,8 @@ Price: 75
 Tags:
   - running
   - Athletic
-image: "[[normalrunningshoes.jpeg]]"
+image: https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/normalrunningshoes.jpeg?raw=true
 ---
 Price: $75
 
-![[normalrunningshoes.jpeg]]
-![]()
+![](https://github.com/acole28/fashionmart/blob/v5/assets/Shoes/normalrunningshoes.jpeg?raw=true)
