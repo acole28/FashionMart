@@ -3,6 +3,6 @@ base: "[[Shoes.base]]"
 Price: 25
 Tags:
   - sandals
-image: ""
+image: "[[tallgeta.jpeg]]"
 ---
 ![[tallgeta.jpeg]]

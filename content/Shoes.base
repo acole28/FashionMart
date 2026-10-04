@@ -15,3 +15,5 @@ views:
       - file.name
       - Price
       - Tags
+    image: note.image
+    imageFit: contain

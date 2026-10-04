@@ -3,6 +3,6 @@ base: "[[Shoes.base]]"
 Price: 1250
 Tags:
   - boots
-image: ""
+image: "[[astroboots.jpeg]]"
 ---
-![](https://cdn.mos.cms.futurecdn.net/fEBiwbkaxr2gcAnQZoZUWj-1200-80.jpg.webp)
+![[astroboots.jpeg]]

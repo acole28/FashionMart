@@ -4,6 +4,6 @@ Price: 134
 Tags:
   - boots
   - heels
-image: ""
+image: "[[highheelboots.jpeg]]"
 ---
-![](https://m.media-amazon.com/images/I/61AdRxgWufL._AC_UY1000_.jpg)
+![[highheelboots.jpeg]]

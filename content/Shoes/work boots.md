@@ -3,6 +3,6 @@ base: "[[Shoes.base]]"
 Price: 300
 Tags:
   - boots
-image: ""
+image: "[[workboots.jpeg]]"
 ---
-![](https://m.media-amazon.com/images/I/71JxcVq5YTL._AC_UY900_.jpg)
+![[workboots.jpeg]]
